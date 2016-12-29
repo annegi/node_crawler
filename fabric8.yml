@@ -1,0 +1,9 @@
+---
+buildName: "nodecccccrawler"
+links:
+  Git: "https://github.com/annegi/node_crawler.git"
+  Job: "http://192.168.64.2:30448/job/nodecccccrawler"
+  Staging: "http://10.0.0.166:80/kubernetes/pods?namespace=default-staging"
+environments:
+  Staging: "default-staging"
+useLocalFlow: true
